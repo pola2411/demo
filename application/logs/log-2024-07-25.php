@@ -50685,3 +50685,2292 @@ INFO - 2024-07-25 11:57:37 --> Database Forge Class Initialized
 INFO - 2024-07-25 11:57:37 --> File loaded: C:\xampp\htdocs\step\application\views\frontend/default-new/index.php
 INFO - 2024-07-25 11:57:37 --> Final output sent to browser
 DEBUG - 2024-07-25 11:57:37 --> Total execution time: 0.4227
+INFO - 2024-07-25 12:49:29 --> Config Class Initialized
+INFO - 2024-07-25 12:49:29 --> Hooks Class Initialized
+DEBUG - 2024-07-25 12:49:29 --> UTF-8 Support Enabled
+INFO - 2024-07-25 12:49:29 --> Utf8 Class Initialized
+INFO - 2024-07-25 12:49:29 --> URI Class Initialized
+DEBUG - 2024-07-25 12:49:29 --> No URI present. Default controller set.
+INFO - 2024-07-25 12:49:29 --> Router Class Initialized
+INFO - 2024-07-25 12:49:29 --> Output Class Initialized
+INFO - 2024-07-25 12:49:29 --> Security Class Initialized
+DEBUG - 2024-07-25 12:49:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-25 12:49:29 --> Input Class Initialized
+INFO - 2024-07-25 12:49:29 --> Language Class Initialized
+INFO - 2024-07-25 12:49:29 --> Loader Class Initialized
+INFO - 2024-07-25 12:49:29 --> Helper loaded: url_helper
+INFO - 2024-07-25 12:49:29 --> Helper loaded: file_helper
+INFO - 2024-07-25 12:49:29 --> Helper loaded: form_helper
+INFO - 2024-07-25 12:49:29 --> Helper loaded: security_helper
+INFO - 2024-07-25 12:49:29 --> Helper loaded: string_helper
+INFO - 2024-07-25 12:49:29 --> Helper loaded: inflector_helper
+INFO - 2024-07-25 12:49:29 --> Helper loaded: directory_helper
+INFO - 2024-07-25 12:49:29 --> Helper loaded: download_helper
+INFO - 2024-07-25 12:49:29 --> Helper loaded: user_helper
+INFO - 2024-07-25 12:49:29 --> Helper loaded: multi_language_helper
+INFO - 2024-07-25 12:49:29 --> Helper loaded: common_helper
+INFO - 2024-07-25 12:49:29 --> Helper loaded: pagination_helper
+INFO - 2024-07-25 12:49:29 --> Helper loaded: addon_helper
+INFO - 2024-07-25 12:49:29 --> XML-RPC Class Initialized
+INFO - 2024-07-25 12:49:29 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-07-25 12:49:29 --> Pagination Class Initialized
+INFO - 2024-07-25 12:49:29 --> Model "User_model" initialized
+INFO - 2024-07-25 12:49:29 --> Model "Crud_model" initialized
+INFO - 2024-07-25 12:49:29 --> Model "Video_model" initialized
+INFO - 2024-07-25 12:49:29 --> Model "Email_model" initialized
+INFO - 2024-07-25 12:49:29 --> Model "Payment_model" initialized
+INFO - 2024-07-25 12:49:29 --> Model "Lazyloaddata_model" initialized
+INFO - 2024-07-25 12:49:29 --> Model "Api_model" initialized
+INFO - 2024-07-25 12:49:29 --> Model "Addon_model" initialized
+INFO - 2024-07-25 12:49:29 --> Model "Social_login_modal" initialized
+INFO - 2024-07-25 12:49:29 --> Model "Academy_cloud_model" initialized
+INFO - 2024-07-25 12:49:29 --> Controller Class Initialized
+INFO - 2024-07-25 12:49:29 --> Database Driver Class Initialized
+INFO - 2024-07-25 12:49:29 --> Session: Class initialized using 'database' driver.
+INFO - 2024-07-25 12:49:29 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:29 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:29 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:29 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:29 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:29 --> Database Forge Class Initialized
+ERROR - 2024-07-25 12:49:29 --> Severity: error --> Exception: Cannot use object of type stdClass as array C:\xampp\htdocs\step\demo\application\views\frontend\default-new\cart_items.php 6
+INFO - 2024-07-25 12:49:34 --> Config Class Initialized
+INFO - 2024-07-25 12:49:34 --> Hooks Class Initialized
+DEBUG - 2024-07-25 12:49:34 --> UTF-8 Support Enabled
+INFO - 2024-07-25 12:49:34 --> Utf8 Class Initialized
+INFO - 2024-07-25 12:49:34 --> URI Class Initialized
+DEBUG - 2024-07-25 12:49:34 --> No URI present. Default controller set.
+INFO - 2024-07-25 12:49:34 --> Router Class Initialized
+INFO - 2024-07-25 12:49:34 --> Output Class Initialized
+INFO - 2024-07-25 12:49:34 --> Security Class Initialized
+DEBUG - 2024-07-25 12:49:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-25 12:49:34 --> Input Class Initialized
+INFO - 2024-07-25 12:49:34 --> Language Class Initialized
+INFO - 2024-07-25 12:49:34 --> Loader Class Initialized
+INFO - 2024-07-25 12:49:34 --> Helper loaded: url_helper
+INFO - 2024-07-25 12:49:34 --> Helper loaded: file_helper
+INFO - 2024-07-25 12:49:34 --> Helper loaded: form_helper
+INFO - 2024-07-25 12:49:34 --> Helper loaded: security_helper
+INFO - 2024-07-25 12:49:34 --> Helper loaded: string_helper
+INFO - 2024-07-25 12:49:34 --> Helper loaded: inflector_helper
+INFO - 2024-07-25 12:49:34 --> Helper loaded: directory_helper
+INFO - 2024-07-25 12:49:34 --> Helper loaded: download_helper
+INFO - 2024-07-25 12:49:34 --> Helper loaded: user_helper
+INFO - 2024-07-25 12:49:34 --> Helper loaded: multi_language_helper
+INFO - 2024-07-25 12:49:34 --> Helper loaded: common_helper
+INFO - 2024-07-25 12:49:34 --> Helper loaded: pagination_helper
+INFO - 2024-07-25 12:49:34 --> Helper loaded: addon_helper
+INFO - 2024-07-25 12:49:34 --> XML-RPC Class Initialized
+INFO - 2024-07-25 12:49:34 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-07-25 12:49:34 --> Pagination Class Initialized
+INFO - 2024-07-25 12:49:34 --> Model "User_model" initialized
+INFO - 2024-07-25 12:49:34 --> Model "Crud_model" initialized
+INFO - 2024-07-25 12:49:34 --> Model "Video_model" initialized
+INFO - 2024-07-25 12:49:34 --> Model "Email_model" initialized
+INFO - 2024-07-25 12:49:34 --> Model "Payment_model" initialized
+INFO - 2024-07-25 12:49:34 --> Model "Lazyloaddata_model" initialized
+INFO - 2024-07-25 12:49:34 --> Model "Api_model" initialized
+INFO - 2024-07-25 12:49:34 --> Model "Addon_model" initialized
+INFO - 2024-07-25 12:49:34 --> Model "Social_login_modal" initialized
+INFO - 2024-07-25 12:49:34 --> Model "Academy_cloud_model" initialized
+INFO - 2024-07-25 12:49:34 --> Controller Class Initialized
+INFO - 2024-07-25 12:49:34 --> Database Driver Class Initialized
+INFO - 2024-07-25 12:49:34 --> Session: Class initialized using 'database' driver.
+INFO - 2024-07-25 12:49:34 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:34 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:34 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:34 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:34 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:34 --> Database Forge Class Initialized
+ERROR - 2024-07-25 12:49:34 --> Severity: error --> Exception: Cannot use object of type stdClass as array C:\xampp\htdocs\step\demo\application\views\frontend\default-new\cart_items.php 6
+INFO - 2024-07-25 12:49:46 --> Config Class Initialized
+INFO - 2024-07-25 12:49:46 --> Hooks Class Initialized
+DEBUG - 2024-07-25 12:49:46 --> UTF-8 Support Enabled
+INFO - 2024-07-25 12:49:46 --> Utf8 Class Initialized
+INFO - 2024-07-25 12:49:46 --> URI Class Initialized
+INFO - 2024-07-25 12:49:46 --> Router Class Initialized
+INFO - 2024-07-25 12:49:46 --> Output Class Initialized
+INFO - 2024-07-25 12:49:46 --> Security Class Initialized
+DEBUG - 2024-07-25 12:49:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-25 12:49:46 --> Input Class Initialized
+INFO - 2024-07-25 12:49:46 --> Language Class Initialized
+INFO - 2024-07-25 12:49:46 --> Loader Class Initialized
+INFO - 2024-07-25 12:49:46 --> Helper loaded: url_helper
+INFO - 2024-07-25 12:49:46 --> Helper loaded: file_helper
+INFO - 2024-07-25 12:49:46 --> Helper loaded: form_helper
+INFO - 2024-07-25 12:49:46 --> Helper loaded: security_helper
+INFO - 2024-07-25 12:49:46 --> Helper loaded: string_helper
+INFO - 2024-07-25 12:49:46 --> Helper loaded: inflector_helper
+INFO - 2024-07-25 12:49:46 --> Helper loaded: directory_helper
+INFO - 2024-07-25 12:49:46 --> Helper loaded: download_helper
+INFO - 2024-07-25 12:49:46 --> Helper loaded: user_helper
+INFO - 2024-07-25 12:49:46 --> Helper loaded: multi_language_helper
+INFO - 2024-07-25 12:49:46 --> Helper loaded: common_helper
+INFO - 2024-07-25 12:49:46 --> Helper loaded: pagination_helper
+INFO - 2024-07-25 12:49:46 --> Helper loaded: addon_helper
+INFO - 2024-07-25 12:49:46 --> XML-RPC Class Initialized
+INFO - 2024-07-25 12:49:46 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-07-25 12:49:46 --> Pagination Class Initialized
+INFO - 2024-07-25 12:49:46 --> Model "User_model" initialized
+INFO - 2024-07-25 12:49:46 --> Model "Crud_model" initialized
+INFO - 2024-07-25 12:49:46 --> Model "Video_model" initialized
+INFO - 2024-07-25 12:49:46 --> Model "Email_model" initialized
+INFO - 2024-07-25 12:49:46 --> Model "Payment_model" initialized
+INFO - 2024-07-25 12:49:46 --> Model "Lazyloaddata_model" initialized
+INFO - 2024-07-25 12:49:46 --> Model "Api_model" initialized
+INFO - 2024-07-25 12:49:46 --> Model "Addon_model" initialized
+INFO - 2024-07-25 12:49:46 --> Model "Social_login_modal" initialized
+INFO - 2024-07-25 12:49:46 --> Model "Academy_cloud_model" initialized
+INFO - 2024-07-25 12:49:46 --> Controller Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Driver Class Initialized
+INFO - 2024-07-25 12:49:46 --> Session: Class initialized using 'database' driver.
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:46 --> File loaded: C:\xampp\htdocs\step\demo\application\views\backend/index.php
+INFO - 2024-07-25 12:49:46 --> Final output sent to browser
+DEBUG - 2024-07-25 12:49:46 --> Total execution time: 0.4538
+INFO - 2024-07-25 12:49:50 --> Config Class Initialized
+INFO - 2024-07-25 12:49:50 --> Hooks Class Initialized
+DEBUG - 2024-07-25 12:49:50 --> UTF-8 Support Enabled
+INFO - 2024-07-25 12:49:50 --> Utf8 Class Initialized
+INFO - 2024-07-25 12:49:50 --> URI Class Initialized
+INFO - 2024-07-25 12:49:50 --> Router Class Initialized
+INFO - 2024-07-25 12:49:50 --> Output Class Initialized
+INFO - 2024-07-25 12:49:50 --> Security Class Initialized
+DEBUG - 2024-07-25 12:49:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-25 12:49:50 --> Input Class Initialized
+INFO - 2024-07-25 12:49:50 --> Language Class Initialized
+INFO - 2024-07-25 12:49:50 --> Loader Class Initialized
+INFO - 2024-07-25 12:49:50 --> Helper loaded: url_helper
+INFO - 2024-07-25 12:49:50 --> Helper loaded: file_helper
+INFO - 2024-07-25 12:49:50 --> Helper loaded: form_helper
+INFO - 2024-07-25 12:49:50 --> Helper loaded: security_helper
+INFO - 2024-07-25 12:49:50 --> Helper loaded: string_helper
+INFO - 2024-07-25 12:49:50 --> Helper loaded: inflector_helper
+INFO - 2024-07-25 12:49:50 --> Helper loaded: directory_helper
+INFO - 2024-07-25 12:49:50 --> Helper loaded: download_helper
+INFO - 2024-07-25 12:49:50 --> Helper loaded: user_helper
+INFO - 2024-07-25 12:49:50 --> Helper loaded: multi_language_helper
+INFO - 2024-07-25 12:49:50 --> Helper loaded: common_helper
+INFO - 2024-07-25 12:49:50 --> Helper loaded: pagination_helper
+INFO - 2024-07-25 12:49:50 --> Helper loaded: addon_helper
+INFO - 2024-07-25 12:49:50 --> XML-RPC Class Initialized
+INFO - 2024-07-25 12:49:50 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-07-25 12:49:50 --> Pagination Class Initialized
+INFO - 2024-07-25 12:49:50 --> Model "User_model" initialized
+INFO - 2024-07-25 12:49:50 --> Model "Crud_model" initialized
+INFO - 2024-07-25 12:49:50 --> Model "Video_model" initialized
+INFO - 2024-07-25 12:49:50 --> Model "Email_model" initialized
+INFO - 2024-07-25 12:49:50 --> Model "Payment_model" initialized
+INFO - 2024-07-25 12:49:50 --> Model "Lazyloaddata_model" initialized
+INFO - 2024-07-25 12:49:50 --> Model "Api_model" initialized
+INFO - 2024-07-25 12:49:50 --> Model "Addon_model" initialized
+INFO - 2024-07-25 12:49:50 --> Model "Social_login_modal" initialized
+INFO - 2024-07-25 12:49:50 --> Model "Academy_cloud_model" initialized
+INFO - 2024-07-25 12:49:50 --> Controller Class Initialized
+INFO - 2024-07-25 12:49:50 --> Database Driver Class Initialized
+INFO - 2024-07-25 12:49:50 --> Session: Class initialized using 'database' driver.
+INFO - 2024-07-25 12:49:50 --> Config Class Initialized
+INFO - 2024-07-25 12:49:50 --> Hooks Class Initialized
+DEBUG - 2024-07-25 12:49:50 --> UTF-8 Support Enabled
+INFO - 2024-07-25 12:49:50 --> Utf8 Class Initialized
+INFO - 2024-07-25 12:49:50 --> URI Class Initialized
+INFO - 2024-07-25 12:49:50 --> Router Class Initialized
+INFO - 2024-07-25 12:49:50 --> Output Class Initialized
+INFO - 2024-07-25 12:49:50 --> Security Class Initialized
+DEBUG - 2024-07-25 12:49:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-25 12:49:50 --> Input Class Initialized
+INFO - 2024-07-25 12:49:50 --> Language Class Initialized
+INFO - 2024-07-25 12:49:50 --> Loader Class Initialized
+INFO - 2024-07-25 12:49:50 --> Helper loaded: url_helper
+INFO - 2024-07-25 12:49:50 --> Helper loaded: file_helper
+INFO - 2024-07-25 12:49:50 --> Helper loaded: form_helper
+INFO - 2024-07-25 12:49:50 --> Helper loaded: security_helper
+INFO - 2024-07-25 12:49:50 --> Helper loaded: string_helper
+INFO - 2024-07-25 12:49:50 --> Helper loaded: inflector_helper
+INFO - 2024-07-25 12:49:50 --> Helper loaded: directory_helper
+INFO - 2024-07-25 12:49:50 --> Helper loaded: download_helper
+INFO - 2024-07-25 12:49:50 --> Helper loaded: user_helper
+INFO - 2024-07-25 12:49:50 --> Helper loaded: multi_language_helper
+INFO - 2024-07-25 12:49:50 --> Helper loaded: common_helper
+INFO - 2024-07-25 12:49:50 --> Helper loaded: pagination_helper
+INFO - 2024-07-25 12:49:50 --> Helper loaded: addon_helper
+INFO - 2024-07-25 12:49:50 --> XML-RPC Class Initialized
+INFO - 2024-07-25 12:49:50 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-07-25 12:49:50 --> Pagination Class Initialized
+INFO - 2024-07-25 12:49:50 --> Model "User_model" initialized
+INFO - 2024-07-25 12:49:50 --> Model "Crud_model" initialized
+INFO - 2024-07-25 12:49:50 --> Model "Video_model" initialized
+INFO - 2024-07-25 12:49:50 --> Model "Email_model" initialized
+INFO - 2024-07-25 12:49:50 --> Model "Payment_model" initialized
+INFO - 2024-07-25 12:49:50 --> Model "Lazyloaddata_model" initialized
+INFO - 2024-07-25 12:49:50 --> Model "Api_model" initialized
+INFO - 2024-07-25 12:49:50 --> Model "Addon_model" initialized
+INFO - 2024-07-25 12:49:50 --> Model "Social_login_modal" initialized
+INFO - 2024-07-25 12:49:50 --> Model "Academy_cloud_model" initialized
+INFO - 2024-07-25 12:49:50 --> Controller Class Initialized
+INFO - 2024-07-25 12:49:50 --> Database Driver Class Initialized
+INFO - 2024-07-25 12:49:50 --> Session: Class initialized using 'database' driver.
+INFO - 2024-07-25 12:49:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:50 --> Database Forge Class Initialized
+ERROR - 2024-07-25 12:49:50 --> Severity: error --> Exception: Cannot use object of type stdClass as array C:\xampp\htdocs\step\demo\application\views\frontend\default-new\cart_items.php 6
+INFO - 2024-07-25 12:49:56 --> Config Class Initialized
+INFO - 2024-07-25 12:49:56 --> Hooks Class Initialized
+DEBUG - 2024-07-25 12:49:56 --> UTF-8 Support Enabled
+INFO - 2024-07-25 12:49:56 --> Utf8 Class Initialized
+INFO - 2024-07-25 12:49:56 --> URI Class Initialized
+DEBUG - 2024-07-25 12:49:56 --> No URI present. Default controller set.
+INFO - 2024-07-25 12:49:56 --> Router Class Initialized
+INFO - 2024-07-25 12:49:56 --> Output Class Initialized
+INFO - 2024-07-25 12:49:56 --> Security Class Initialized
+DEBUG - 2024-07-25 12:49:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-25 12:49:56 --> Input Class Initialized
+INFO - 2024-07-25 12:49:56 --> Language Class Initialized
+INFO - 2024-07-25 12:49:56 --> Loader Class Initialized
+INFO - 2024-07-25 12:49:56 --> Helper loaded: url_helper
+INFO - 2024-07-25 12:49:56 --> Helper loaded: file_helper
+INFO - 2024-07-25 12:49:56 --> Helper loaded: form_helper
+INFO - 2024-07-25 12:49:56 --> Helper loaded: security_helper
+INFO - 2024-07-25 12:49:56 --> Helper loaded: string_helper
+INFO - 2024-07-25 12:49:56 --> Helper loaded: inflector_helper
+INFO - 2024-07-25 12:49:56 --> Helper loaded: directory_helper
+INFO - 2024-07-25 12:49:56 --> Helper loaded: download_helper
+INFO - 2024-07-25 12:49:56 --> Helper loaded: user_helper
+INFO - 2024-07-25 12:49:56 --> Helper loaded: multi_language_helper
+INFO - 2024-07-25 12:49:56 --> Helper loaded: common_helper
+INFO - 2024-07-25 12:49:56 --> Helper loaded: pagination_helper
+INFO - 2024-07-25 12:49:56 --> Helper loaded: addon_helper
+INFO - 2024-07-25 12:49:56 --> XML-RPC Class Initialized
+INFO - 2024-07-25 12:49:56 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-07-25 12:49:56 --> Pagination Class Initialized
+INFO - 2024-07-25 12:49:56 --> Model "User_model" initialized
+INFO - 2024-07-25 12:49:56 --> Model "Crud_model" initialized
+INFO - 2024-07-25 12:49:56 --> Model "Video_model" initialized
+INFO - 2024-07-25 12:49:56 --> Model "Email_model" initialized
+INFO - 2024-07-25 12:49:56 --> Model "Payment_model" initialized
+INFO - 2024-07-25 12:49:56 --> Model "Lazyloaddata_model" initialized
+INFO - 2024-07-25 12:49:56 --> Model "Api_model" initialized
+INFO - 2024-07-25 12:49:56 --> Model "Addon_model" initialized
+INFO - 2024-07-25 12:49:56 --> Model "Social_login_modal" initialized
+INFO - 2024-07-25 12:49:56 --> Model "Academy_cloud_model" initialized
+INFO - 2024-07-25 12:49:56 --> Controller Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Driver Class Initialized
+INFO - 2024-07-25 12:49:56 --> Session: Class initialized using 'database' driver.
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+DEBUG - 2024-07-25 12:49:56 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+DEBUG - 2024-07-25 12:49:56 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:56 --> File loaded: C:\xampp\htdocs\step\demo\application\views\frontend/default-new/index.php
+INFO - 2024-07-25 12:49:56 --> Final output sent to browser
+DEBUG - 2024-07-25 12:49:56 --> Total execution time: 0.4468
+INFO - 2024-07-25 12:49:57 --> Config Class Initialized
+INFO - 2024-07-25 12:49:57 --> Hooks Class Initialized
+DEBUG - 2024-07-25 12:49:57 --> UTF-8 Support Enabled
+INFO - 2024-07-25 12:49:57 --> Utf8 Class Initialized
+INFO - 2024-07-25 12:49:57 --> URI Class Initialized
+INFO - 2024-07-25 12:49:57 --> Router Class Initialized
+INFO - 2024-07-25 12:49:57 --> Output Class Initialized
+INFO - 2024-07-25 12:49:57 --> Security Class Initialized
+DEBUG - 2024-07-25 12:49:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-25 12:49:57 --> Input Class Initialized
+INFO - 2024-07-25 12:49:57 --> Language Class Initialized
+INFO - 2024-07-25 12:49:57 --> Loader Class Initialized
+INFO - 2024-07-25 12:49:57 --> Helper loaded: url_helper
+INFO - 2024-07-25 12:49:57 --> Helper loaded: file_helper
+INFO - 2024-07-25 12:49:57 --> Helper loaded: form_helper
+INFO - 2024-07-25 12:49:57 --> Helper loaded: security_helper
+INFO - 2024-07-25 12:49:57 --> Helper loaded: string_helper
+INFO - 2024-07-25 12:49:57 --> Helper loaded: inflector_helper
+INFO - 2024-07-25 12:49:57 --> Helper loaded: directory_helper
+INFO - 2024-07-25 12:49:57 --> Helper loaded: download_helper
+INFO - 2024-07-25 12:49:57 --> Helper loaded: user_helper
+INFO - 2024-07-25 12:49:57 --> Helper loaded: multi_language_helper
+INFO - 2024-07-25 12:49:57 --> Helper loaded: common_helper
+INFO - 2024-07-25 12:49:57 --> Helper loaded: pagination_helper
+INFO - 2024-07-25 12:49:57 --> Helper loaded: addon_helper
+INFO - 2024-07-25 12:49:57 --> XML-RPC Class Initialized
+INFO - 2024-07-25 12:49:57 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-07-25 12:49:57 --> Pagination Class Initialized
+INFO - 2024-07-25 12:49:57 --> Model "User_model" initialized
+INFO - 2024-07-25 12:49:57 --> Model "Crud_model" initialized
+INFO - 2024-07-25 12:49:57 --> Model "Video_model" initialized
+INFO - 2024-07-25 12:49:57 --> Model "Email_model" initialized
+INFO - 2024-07-25 12:49:57 --> Model "Payment_model" initialized
+INFO - 2024-07-25 12:49:57 --> Model "Lazyloaddata_model" initialized
+INFO - 2024-07-25 12:49:57 --> Model "Api_model" initialized
+INFO - 2024-07-25 12:49:57 --> Model "Addon_model" initialized
+INFO - 2024-07-25 12:49:57 --> Model "Social_login_modal" initialized
+INFO - 2024-07-25 12:49:57 --> Model "Academy_cloud_model" initialized
+INFO - 2024-07-25 12:49:57 --> Controller Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Driver Class Initialized
+INFO - 2024-07-25 12:49:57 --> Session: Class initialized using 'database' driver.
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:49:57 --> File loaded: C:\xampp\htdocs\step\demo\application\views\frontend/default-new/index.php
+INFO - 2024-07-25 12:49:57 --> Final output sent to browser
+DEBUG - 2024-07-25 12:49:57 --> Total execution time: 0.3823
+INFO - 2024-07-25 12:50:05 --> Config Class Initialized
+INFO - 2024-07-25 12:50:05 --> Hooks Class Initialized
+DEBUG - 2024-07-25 12:50:05 --> UTF-8 Support Enabled
+INFO - 2024-07-25 12:50:05 --> Utf8 Class Initialized
+INFO - 2024-07-25 12:50:05 --> URI Class Initialized
+INFO - 2024-07-25 12:50:05 --> Router Class Initialized
+INFO - 2024-07-25 12:50:05 --> Output Class Initialized
+INFO - 2024-07-25 12:50:05 --> Security Class Initialized
+DEBUG - 2024-07-25 12:50:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-25 12:50:05 --> Input Class Initialized
+INFO - 2024-07-25 12:50:05 --> Language Class Initialized
+INFO - 2024-07-25 12:50:05 --> Loader Class Initialized
+INFO - 2024-07-25 12:50:05 --> Helper loaded: url_helper
+INFO - 2024-07-25 12:50:05 --> Helper loaded: file_helper
+INFO - 2024-07-25 12:50:05 --> Helper loaded: form_helper
+INFO - 2024-07-25 12:50:05 --> Helper loaded: security_helper
+INFO - 2024-07-25 12:50:05 --> Helper loaded: string_helper
+INFO - 2024-07-25 12:50:05 --> Helper loaded: inflector_helper
+INFO - 2024-07-25 12:50:05 --> Helper loaded: directory_helper
+INFO - 2024-07-25 12:50:05 --> Helper loaded: download_helper
+INFO - 2024-07-25 12:50:05 --> Helper loaded: user_helper
+INFO - 2024-07-25 12:50:05 --> Helper loaded: multi_language_helper
+INFO - 2024-07-25 12:50:05 --> Helper loaded: common_helper
+INFO - 2024-07-25 12:50:05 --> Helper loaded: pagination_helper
+INFO - 2024-07-25 12:50:05 --> Helper loaded: addon_helper
+INFO - 2024-07-25 12:50:05 --> XML-RPC Class Initialized
+INFO - 2024-07-25 12:50:05 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-07-25 12:50:05 --> Pagination Class Initialized
+INFO - 2024-07-25 12:50:05 --> Model "User_model" initialized
+INFO - 2024-07-25 12:50:05 --> Model "Crud_model" initialized
+INFO - 2024-07-25 12:50:05 --> Model "Video_model" initialized
+INFO - 2024-07-25 12:50:05 --> Model "Email_model" initialized
+INFO - 2024-07-25 12:50:05 --> Model "Payment_model" initialized
+INFO - 2024-07-25 12:50:05 --> Model "Lazyloaddata_model" initialized
+INFO - 2024-07-25 12:50:05 --> Model "Api_model" initialized
+INFO - 2024-07-25 12:50:05 --> Model "Addon_model" initialized
+INFO - 2024-07-25 12:50:05 --> Model "Social_login_modal" initialized
+INFO - 2024-07-25 12:50:05 --> Model "Academy_cloud_model" initialized
+INFO - 2024-07-25 12:50:05 --> Controller Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Driver Class Initialized
+INFO - 2024-07-25 12:50:05 --> Session: Class initialized using 'database' driver.
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:05 --> File loaded: C:\xampp\htdocs\step\demo\application\views\frontend/default-new/index.php
+INFO - 2024-07-25 12:50:05 --> Final output sent to browser
+DEBUG - 2024-07-25 12:50:05 --> Total execution time: 0.4262
+INFO - 2024-07-25 12:50:08 --> Config Class Initialized
+INFO - 2024-07-25 12:50:08 --> Hooks Class Initialized
+DEBUG - 2024-07-25 12:50:08 --> UTF-8 Support Enabled
+INFO - 2024-07-25 12:50:08 --> Utf8 Class Initialized
+INFO - 2024-07-25 12:50:08 --> URI Class Initialized
+DEBUG - 2024-07-25 12:50:08 --> No URI present. Default controller set.
+INFO - 2024-07-25 12:50:08 --> Router Class Initialized
+INFO - 2024-07-25 12:50:08 --> Output Class Initialized
+INFO - 2024-07-25 12:50:08 --> Security Class Initialized
+DEBUG - 2024-07-25 12:50:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-25 12:50:08 --> Input Class Initialized
+INFO - 2024-07-25 12:50:08 --> Language Class Initialized
+INFO - 2024-07-25 12:50:08 --> Loader Class Initialized
+INFO - 2024-07-25 12:50:08 --> Helper loaded: url_helper
+INFO - 2024-07-25 12:50:08 --> Helper loaded: file_helper
+INFO - 2024-07-25 12:50:08 --> Helper loaded: form_helper
+INFO - 2024-07-25 12:50:08 --> Helper loaded: security_helper
+INFO - 2024-07-25 12:50:08 --> Helper loaded: string_helper
+INFO - 2024-07-25 12:50:08 --> Helper loaded: inflector_helper
+INFO - 2024-07-25 12:50:08 --> Helper loaded: directory_helper
+INFO - 2024-07-25 12:50:08 --> Helper loaded: download_helper
+INFO - 2024-07-25 12:50:08 --> Helper loaded: user_helper
+INFO - 2024-07-25 12:50:08 --> Helper loaded: multi_language_helper
+INFO - 2024-07-25 12:50:08 --> Helper loaded: common_helper
+INFO - 2024-07-25 12:50:08 --> Helper loaded: pagination_helper
+INFO - 2024-07-25 12:50:08 --> Helper loaded: addon_helper
+INFO - 2024-07-25 12:50:08 --> XML-RPC Class Initialized
+INFO - 2024-07-25 12:50:08 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-07-25 12:50:08 --> Pagination Class Initialized
+INFO - 2024-07-25 12:50:08 --> Model "User_model" initialized
+INFO - 2024-07-25 12:50:08 --> Model "Crud_model" initialized
+INFO - 2024-07-25 12:50:08 --> Model "Video_model" initialized
+INFO - 2024-07-25 12:50:08 --> Model "Email_model" initialized
+INFO - 2024-07-25 12:50:08 --> Model "Payment_model" initialized
+INFO - 2024-07-25 12:50:08 --> Model "Lazyloaddata_model" initialized
+INFO - 2024-07-25 12:50:08 --> Model "Api_model" initialized
+INFO - 2024-07-25 12:50:08 --> Model "Addon_model" initialized
+INFO - 2024-07-25 12:50:08 --> Model "Social_login_modal" initialized
+INFO - 2024-07-25 12:50:08 --> Model "Academy_cloud_model" initialized
+INFO - 2024-07-25 12:50:08 --> Controller Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Driver Class Initialized
+INFO - 2024-07-25 12:50:08 --> Session: Class initialized using 'database' driver.
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+DEBUG - 2024-07-25 12:50:08 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+DEBUG - 2024-07-25 12:50:08 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:08 --> File loaded: C:\xampp\htdocs\step\demo\application\views\frontend/default-new/index.php
+INFO - 2024-07-25 12:50:08 --> Final output sent to browser
+DEBUG - 2024-07-25 12:50:08 --> Total execution time: 0.4534
+INFO - 2024-07-25 12:50:37 --> Config Class Initialized
+INFO - 2024-07-25 12:50:37 --> Hooks Class Initialized
+DEBUG - 2024-07-25 12:50:37 --> UTF-8 Support Enabled
+INFO - 2024-07-25 12:50:37 --> Utf8 Class Initialized
+INFO - 2024-07-25 12:50:37 --> URI Class Initialized
+INFO - 2024-07-25 12:50:37 --> Router Class Initialized
+INFO - 2024-07-25 12:50:37 --> Output Class Initialized
+INFO - 2024-07-25 12:50:37 --> Security Class Initialized
+DEBUG - 2024-07-25 12:50:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-25 12:50:37 --> Input Class Initialized
+INFO - 2024-07-25 12:50:37 --> Language Class Initialized
+INFO - 2024-07-25 12:50:37 --> Loader Class Initialized
+INFO - 2024-07-25 12:50:37 --> Helper loaded: url_helper
+INFO - 2024-07-25 12:50:37 --> Helper loaded: file_helper
+INFO - 2024-07-25 12:50:37 --> Helper loaded: form_helper
+INFO - 2024-07-25 12:50:37 --> Helper loaded: security_helper
+INFO - 2024-07-25 12:50:37 --> Helper loaded: string_helper
+INFO - 2024-07-25 12:50:37 --> Helper loaded: inflector_helper
+INFO - 2024-07-25 12:50:37 --> Helper loaded: directory_helper
+INFO - 2024-07-25 12:50:37 --> Helper loaded: download_helper
+INFO - 2024-07-25 12:50:37 --> Helper loaded: user_helper
+INFO - 2024-07-25 12:50:37 --> Helper loaded: multi_language_helper
+INFO - 2024-07-25 12:50:37 --> Helper loaded: common_helper
+INFO - 2024-07-25 12:50:37 --> Helper loaded: pagination_helper
+INFO - 2024-07-25 12:50:37 --> Helper loaded: addon_helper
+INFO - 2024-07-25 12:50:37 --> XML-RPC Class Initialized
+INFO - 2024-07-25 12:50:37 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-07-25 12:50:37 --> Pagination Class Initialized
+INFO - 2024-07-25 12:50:37 --> Model "User_model" initialized
+INFO - 2024-07-25 12:50:37 --> Model "Crud_model" initialized
+INFO - 2024-07-25 12:50:37 --> Model "Video_model" initialized
+INFO - 2024-07-25 12:50:37 --> Model "Email_model" initialized
+INFO - 2024-07-25 12:50:37 --> Model "Payment_model" initialized
+INFO - 2024-07-25 12:50:37 --> Model "Lazyloaddata_model" initialized
+INFO - 2024-07-25 12:50:37 --> Model "Api_model" initialized
+INFO - 2024-07-25 12:50:37 --> Model "Addon_model" initialized
+INFO - 2024-07-25 12:50:37 --> Model "Social_login_modal" initialized
+INFO - 2024-07-25 12:50:37 --> Model "Academy_cloud_model" initialized
+INFO - 2024-07-25 12:50:37 --> Controller Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Driver Class Initialized
+INFO - 2024-07-25 12:50:37 --> Session: Class initialized using 'database' driver.
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:37 --> File loaded: C:\xampp\htdocs\step\demo\application\views\frontend/default-new/index.php
+INFO - 2024-07-25 12:50:37 --> Final output sent to browser
+DEBUG - 2024-07-25 12:50:37 --> Total execution time: 0.2683
+INFO - 2024-07-25 12:50:42 --> Config Class Initialized
+INFO - 2024-07-25 12:50:42 --> Hooks Class Initialized
+DEBUG - 2024-07-25 12:50:42 --> UTF-8 Support Enabled
+INFO - 2024-07-25 12:50:42 --> Utf8 Class Initialized
+INFO - 2024-07-25 12:50:42 --> URI Class Initialized
+DEBUG - 2024-07-25 12:50:42 --> No URI present. Default controller set.
+INFO - 2024-07-25 12:50:42 --> Router Class Initialized
+INFO - 2024-07-25 12:50:42 --> Output Class Initialized
+INFO - 2024-07-25 12:50:42 --> Security Class Initialized
+DEBUG - 2024-07-25 12:50:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-25 12:50:42 --> Input Class Initialized
+INFO - 2024-07-25 12:50:42 --> Language Class Initialized
+INFO - 2024-07-25 12:50:42 --> Loader Class Initialized
+INFO - 2024-07-25 12:50:42 --> Helper loaded: url_helper
+INFO - 2024-07-25 12:50:42 --> Helper loaded: file_helper
+INFO - 2024-07-25 12:50:42 --> Helper loaded: form_helper
+INFO - 2024-07-25 12:50:42 --> Helper loaded: security_helper
+INFO - 2024-07-25 12:50:42 --> Helper loaded: string_helper
+INFO - 2024-07-25 12:50:42 --> Helper loaded: inflector_helper
+INFO - 2024-07-25 12:50:42 --> Helper loaded: directory_helper
+INFO - 2024-07-25 12:50:42 --> Helper loaded: download_helper
+INFO - 2024-07-25 12:50:42 --> Helper loaded: user_helper
+INFO - 2024-07-25 12:50:42 --> Helper loaded: multi_language_helper
+INFO - 2024-07-25 12:50:42 --> Helper loaded: common_helper
+INFO - 2024-07-25 12:50:42 --> Helper loaded: pagination_helper
+INFO - 2024-07-25 12:50:42 --> Helper loaded: addon_helper
+INFO - 2024-07-25 12:50:42 --> XML-RPC Class Initialized
+INFO - 2024-07-25 12:50:42 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-07-25 12:50:42 --> Pagination Class Initialized
+INFO - 2024-07-25 12:50:42 --> Model "User_model" initialized
+INFO - 2024-07-25 12:50:42 --> Model "Crud_model" initialized
+INFO - 2024-07-25 12:50:42 --> Model "Video_model" initialized
+INFO - 2024-07-25 12:50:42 --> Model "Email_model" initialized
+INFO - 2024-07-25 12:50:42 --> Model "Payment_model" initialized
+INFO - 2024-07-25 12:50:42 --> Model "Lazyloaddata_model" initialized
+INFO - 2024-07-25 12:50:42 --> Model "Api_model" initialized
+INFO - 2024-07-25 12:50:42 --> Model "Addon_model" initialized
+INFO - 2024-07-25 12:50:42 --> Model "Social_login_modal" initialized
+INFO - 2024-07-25 12:50:42 --> Model "Academy_cloud_model" initialized
+INFO - 2024-07-25 12:50:42 --> Controller Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Driver Class Initialized
+INFO - 2024-07-25 12:50:42 --> Session: Class initialized using 'database' driver.
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+DEBUG - 2024-07-25 12:50:42 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+DEBUG - 2024-07-25 12:50:42 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> File loaded: C:\xampp\htdocs\step\demo\application\views\frontend/default-new/index.php
+INFO - 2024-07-25 12:50:42 --> Final output sent to browser
+DEBUG - 2024-07-25 12:50:42 --> Total execution time: 0.3230
+INFO - 2024-07-25 12:50:42 --> Config Class Initialized
+INFO - 2024-07-25 12:50:42 --> Hooks Class Initialized
+DEBUG - 2024-07-25 12:50:42 --> UTF-8 Support Enabled
+INFO - 2024-07-25 12:50:42 --> Utf8 Class Initialized
+INFO - 2024-07-25 12:50:42 --> URI Class Initialized
+INFO - 2024-07-25 12:50:42 --> Router Class Initialized
+INFO - 2024-07-25 12:50:42 --> Output Class Initialized
+INFO - 2024-07-25 12:50:42 --> Security Class Initialized
+DEBUG - 2024-07-25 12:50:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-25 12:50:42 --> Input Class Initialized
+INFO - 2024-07-25 12:50:42 --> Language Class Initialized
+INFO - 2024-07-25 12:50:42 --> Loader Class Initialized
+INFO - 2024-07-25 12:50:42 --> Helper loaded: url_helper
+INFO - 2024-07-25 12:50:42 --> Helper loaded: file_helper
+INFO - 2024-07-25 12:50:42 --> Helper loaded: form_helper
+INFO - 2024-07-25 12:50:42 --> Helper loaded: security_helper
+INFO - 2024-07-25 12:50:42 --> Helper loaded: string_helper
+INFO - 2024-07-25 12:50:42 --> Helper loaded: inflector_helper
+INFO - 2024-07-25 12:50:42 --> Helper loaded: directory_helper
+INFO - 2024-07-25 12:50:42 --> Helper loaded: download_helper
+INFO - 2024-07-25 12:50:42 --> Helper loaded: user_helper
+INFO - 2024-07-25 12:50:42 --> Helper loaded: multi_language_helper
+INFO - 2024-07-25 12:50:42 --> Helper loaded: common_helper
+INFO - 2024-07-25 12:50:42 --> Helper loaded: pagination_helper
+INFO - 2024-07-25 12:50:42 --> Helper loaded: addon_helper
+INFO - 2024-07-25 12:50:42 --> XML-RPC Class Initialized
+INFO - 2024-07-25 12:50:42 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-07-25 12:50:42 --> Pagination Class Initialized
+INFO - 2024-07-25 12:50:42 --> Model "User_model" initialized
+INFO - 2024-07-25 12:50:42 --> Model "Crud_model" initialized
+INFO - 2024-07-25 12:50:42 --> Model "Video_model" initialized
+INFO - 2024-07-25 12:50:42 --> Model "Email_model" initialized
+INFO - 2024-07-25 12:50:42 --> Model "Payment_model" initialized
+INFO - 2024-07-25 12:50:42 --> Model "Lazyloaddata_model" initialized
+INFO - 2024-07-25 12:50:42 --> Model "Api_model" initialized
+INFO - 2024-07-25 12:50:42 --> Model "Addon_model" initialized
+INFO - 2024-07-25 12:50:42 --> Model "Social_login_modal" initialized
+INFO - 2024-07-25 12:50:42 --> Model "Academy_cloud_model" initialized
+INFO - 2024-07-25 12:50:42 --> Controller Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Driver Class Initialized
+INFO - 2024-07-25 12:50:42 --> Session: Class initialized using 'database' driver.
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:42 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:43 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:43 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:43 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:43 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:43 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:43 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:43 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:43 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:43 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:43 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:43 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:43 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:43 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:43 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:43 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:43 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:43 --> Database Forge Class Initialized
+INFO - 2024-07-25 12:50:43 --> File loaded: C:\xampp\htdocs\step\demo\application\views\frontend/default-new/index.php
+INFO - 2024-07-25 12:50:43 --> Final output sent to browser
+DEBUG - 2024-07-25 12:50:43 --> Total execution time: 0.3541
+INFO - 2024-07-25 18:28:49 --> Config Class Initialized
+INFO - 2024-07-25 18:28:49 --> Hooks Class Initialized
+DEBUG - 2024-07-25 18:28:49 --> UTF-8 Support Enabled
+INFO - 2024-07-25 18:28:49 --> Utf8 Class Initialized
+INFO - 2024-07-25 18:28:49 --> URI Class Initialized
+DEBUG - 2024-07-25 18:28:49 --> No URI present. Default controller set.
+INFO - 2024-07-25 18:28:49 --> Router Class Initialized
+INFO - 2024-07-25 18:28:49 --> Output Class Initialized
+INFO - 2024-07-25 18:28:49 --> Security Class Initialized
+DEBUG - 2024-07-25 18:28:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-25 18:28:49 --> Input Class Initialized
+INFO - 2024-07-25 18:28:49 --> Language Class Initialized
+INFO - 2024-07-25 18:28:49 --> Loader Class Initialized
+INFO - 2024-07-25 18:28:49 --> Helper loaded: url_helper
+INFO - 2024-07-25 18:28:49 --> Helper loaded: file_helper
+INFO - 2024-07-25 18:28:49 --> Helper loaded: form_helper
+INFO - 2024-07-25 18:28:49 --> Helper loaded: security_helper
+INFO - 2024-07-25 18:28:49 --> Helper loaded: string_helper
+INFO - 2024-07-25 18:28:49 --> Helper loaded: inflector_helper
+INFO - 2024-07-25 18:28:49 --> Helper loaded: directory_helper
+INFO - 2024-07-25 18:28:49 --> Helper loaded: download_helper
+INFO - 2024-07-25 18:28:49 --> Helper loaded: user_helper
+INFO - 2024-07-25 18:28:49 --> Helper loaded: multi_language_helper
+INFO - 2024-07-25 18:28:49 --> Helper loaded: common_helper
+INFO - 2024-07-25 18:28:49 --> Helper loaded: pagination_helper
+INFO - 2024-07-25 18:28:49 --> Helper loaded: addon_helper
+INFO - 2024-07-25 18:28:49 --> XML-RPC Class Initialized
+INFO - 2024-07-25 18:28:49 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-07-25 18:28:49 --> Pagination Class Initialized
+INFO - 2024-07-25 18:28:49 --> Model "User_model" initialized
+INFO - 2024-07-25 18:28:49 --> Model "Crud_model" initialized
+INFO - 2024-07-25 18:28:49 --> Model "Video_model" initialized
+INFO - 2024-07-25 18:28:49 --> Model "Email_model" initialized
+INFO - 2024-07-25 18:28:49 --> Model "Payment_model" initialized
+INFO - 2024-07-25 18:28:49 --> Model "Lazyloaddata_model" initialized
+INFO - 2024-07-25 18:28:49 --> Model "Api_model" initialized
+INFO - 2024-07-25 18:28:49 --> Model "Addon_model" initialized
+INFO - 2024-07-25 18:28:49 --> Model "Social_login_modal" initialized
+INFO - 2024-07-25 18:28:49 --> Model "Academy_cloud_model" initialized
+INFO - 2024-07-25 18:28:49 --> Controller Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Driver Class Initialized
+INFO - 2024-07-25 18:28:49 --> Session: Class initialized using 'database' driver.
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+DEBUG - 2024-07-25 18:28:49 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+DEBUG - 2024-07-25 18:28:49 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:49 --> File loaded: C:\xampp\htdocs\step\demo\application\views\frontend/default-new/index.php
+INFO - 2024-07-25 18:28:49 --> Final output sent to browser
+DEBUG - 2024-07-25 18:28:49 --> Total execution time: 0.2615
+INFO - 2024-07-25 18:28:50 --> Config Class Initialized
+INFO - 2024-07-25 18:28:50 --> Hooks Class Initialized
+DEBUG - 2024-07-25 18:28:50 --> UTF-8 Support Enabled
+INFO - 2024-07-25 18:28:50 --> Utf8 Class Initialized
+INFO - 2024-07-25 18:28:50 --> URI Class Initialized
+INFO - 2024-07-25 18:28:50 --> Router Class Initialized
+INFO - 2024-07-25 18:28:50 --> Output Class Initialized
+INFO - 2024-07-25 18:28:50 --> Security Class Initialized
+DEBUG - 2024-07-25 18:28:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-25 18:28:50 --> Input Class Initialized
+INFO - 2024-07-25 18:28:50 --> Language Class Initialized
+INFO - 2024-07-25 18:28:50 --> Loader Class Initialized
+INFO - 2024-07-25 18:28:50 --> Helper loaded: url_helper
+INFO - 2024-07-25 18:28:50 --> Helper loaded: file_helper
+INFO - 2024-07-25 18:28:50 --> Helper loaded: form_helper
+INFO - 2024-07-25 18:28:50 --> Helper loaded: security_helper
+INFO - 2024-07-25 18:28:50 --> Helper loaded: string_helper
+INFO - 2024-07-25 18:28:50 --> Helper loaded: inflector_helper
+INFO - 2024-07-25 18:28:50 --> Helper loaded: directory_helper
+INFO - 2024-07-25 18:28:50 --> Helper loaded: download_helper
+INFO - 2024-07-25 18:28:50 --> Helper loaded: user_helper
+INFO - 2024-07-25 18:28:50 --> Helper loaded: multi_language_helper
+INFO - 2024-07-25 18:28:50 --> Helper loaded: common_helper
+INFO - 2024-07-25 18:28:50 --> Helper loaded: pagination_helper
+INFO - 2024-07-25 18:28:50 --> Helper loaded: addon_helper
+INFO - 2024-07-25 18:28:50 --> XML-RPC Class Initialized
+INFO - 2024-07-25 18:28:50 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-07-25 18:28:50 --> Pagination Class Initialized
+INFO - 2024-07-25 18:28:50 --> Model "User_model" initialized
+INFO - 2024-07-25 18:28:50 --> Model "Crud_model" initialized
+INFO - 2024-07-25 18:28:50 --> Model "Video_model" initialized
+INFO - 2024-07-25 18:28:50 --> Model "Email_model" initialized
+INFO - 2024-07-25 18:28:50 --> Model "Payment_model" initialized
+INFO - 2024-07-25 18:28:50 --> Model "Lazyloaddata_model" initialized
+INFO - 2024-07-25 18:28:50 --> Model "Api_model" initialized
+INFO - 2024-07-25 18:28:50 --> Model "Addon_model" initialized
+INFO - 2024-07-25 18:28:50 --> Model "Social_login_modal" initialized
+INFO - 2024-07-25 18:28:50 --> Model "Academy_cloud_model" initialized
+INFO - 2024-07-25 18:28:50 --> Controller Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Driver Class Initialized
+INFO - 2024-07-25 18:28:50 --> Session: Class initialized using 'database' driver.
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:50 --> File loaded: C:\xampp\htdocs\step\demo\application\views\frontend/default-new/index.php
+INFO - 2024-07-25 18:28:50 --> Final output sent to browser
+DEBUG - 2024-07-25 18:28:50 --> Total execution time: 0.2379
+INFO - 2024-07-25 18:28:53 --> Config Class Initialized
+INFO - 2024-07-25 18:28:53 --> Hooks Class Initialized
+DEBUG - 2024-07-25 18:28:53 --> UTF-8 Support Enabled
+INFO - 2024-07-25 18:28:53 --> Utf8 Class Initialized
+INFO - 2024-07-25 18:28:53 --> URI Class Initialized
+INFO - 2024-07-25 18:28:53 --> Router Class Initialized
+INFO - 2024-07-25 18:28:53 --> Output Class Initialized
+INFO - 2024-07-25 18:28:53 --> Security Class Initialized
+DEBUG - 2024-07-25 18:28:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-25 18:28:53 --> Input Class Initialized
+INFO - 2024-07-25 18:28:53 --> Language Class Initialized
+INFO - 2024-07-25 18:28:53 --> Loader Class Initialized
+INFO - 2024-07-25 18:28:53 --> Helper loaded: url_helper
+INFO - 2024-07-25 18:28:53 --> Helper loaded: file_helper
+INFO - 2024-07-25 18:28:53 --> Helper loaded: form_helper
+INFO - 2024-07-25 18:28:53 --> Helper loaded: security_helper
+INFO - 2024-07-25 18:28:53 --> Helper loaded: string_helper
+INFO - 2024-07-25 18:28:53 --> Helper loaded: inflector_helper
+INFO - 2024-07-25 18:28:53 --> Helper loaded: directory_helper
+INFO - 2024-07-25 18:28:53 --> Helper loaded: download_helper
+INFO - 2024-07-25 18:28:53 --> Helper loaded: user_helper
+INFO - 2024-07-25 18:28:53 --> Helper loaded: multi_language_helper
+INFO - 2024-07-25 18:28:53 --> Helper loaded: common_helper
+INFO - 2024-07-25 18:28:53 --> Helper loaded: pagination_helper
+INFO - 2024-07-25 18:28:53 --> Helper loaded: addon_helper
+INFO - 2024-07-25 18:28:53 --> XML-RPC Class Initialized
+INFO - 2024-07-25 18:28:53 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-07-25 18:28:53 --> Pagination Class Initialized
+INFO - 2024-07-25 18:28:53 --> Model "User_model" initialized
+INFO - 2024-07-25 18:28:53 --> Model "Crud_model" initialized
+INFO - 2024-07-25 18:28:53 --> Model "Video_model" initialized
+INFO - 2024-07-25 18:28:53 --> Model "Email_model" initialized
+INFO - 2024-07-25 18:28:53 --> Model "Payment_model" initialized
+INFO - 2024-07-25 18:28:53 --> Model "Lazyloaddata_model" initialized
+INFO - 2024-07-25 18:28:53 --> Model "Api_model" initialized
+INFO - 2024-07-25 18:28:53 --> Model "Addon_model" initialized
+INFO - 2024-07-25 18:28:53 --> Model "Social_login_modal" initialized
+INFO - 2024-07-25 18:28:53 --> Model "Academy_cloud_model" initialized
+INFO - 2024-07-25 18:28:53 --> Controller Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Driver Class Initialized
+INFO - 2024-07-25 18:28:53 --> Session: Class initialized using 'database' driver.
+INFO - 2024-07-25 18:28:53 --> Config Class Initialized
+INFO - 2024-07-25 18:28:53 --> Hooks Class Initialized
+DEBUG - 2024-07-25 18:28:53 --> UTF-8 Support Enabled
+INFO - 2024-07-25 18:28:53 --> Utf8 Class Initialized
+INFO - 2024-07-25 18:28:53 --> URI Class Initialized
+INFO - 2024-07-25 18:28:53 --> Router Class Initialized
+INFO - 2024-07-25 18:28:53 --> Output Class Initialized
+INFO - 2024-07-25 18:28:53 --> Security Class Initialized
+DEBUG - 2024-07-25 18:28:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-25 18:28:53 --> Input Class Initialized
+INFO - 2024-07-25 18:28:53 --> Language Class Initialized
+INFO - 2024-07-25 18:28:53 --> Loader Class Initialized
+INFO - 2024-07-25 18:28:53 --> Helper loaded: url_helper
+INFO - 2024-07-25 18:28:53 --> Helper loaded: file_helper
+INFO - 2024-07-25 18:28:53 --> Helper loaded: form_helper
+INFO - 2024-07-25 18:28:53 --> Helper loaded: security_helper
+INFO - 2024-07-25 18:28:53 --> Helper loaded: string_helper
+INFO - 2024-07-25 18:28:53 --> Helper loaded: inflector_helper
+INFO - 2024-07-25 18:28:53 --> Helper loaded: directory_helper
+INFO - 2024-07-25 18:28:53 --> Helper loaded: download_helper
+INFO - 2024-07-25 18:28:53 --> Helper loaded: user_helper
+INFO - 2024-07-25 18:28:53 --> Helper loaded: multi_language_helper
+INFO - 2024-07-25 18:28:53 --> Helper loaded: common_helper
+INFO - 2024-07-25 18:28:53 --> Helper loaded: pagination_helper
+INFO - 2024-07-25 18:28:53 --> Helper loaded: addon_helper
+INFO - 2024-07-25 18:28:53 --> XML-RPC Class Initialized
+INFO - 2024-07-25 18:28:53 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-07-25 18:28:53 --> Pagination Class Initialized
+INFO - 2024-07-25 18:28:53 --> Model "User_model" initialized
+INFO - 2024-07-25 18:28:53 --> Model "Crud_model" initialized
+INFO - 2024-07-25 18:28:53 --> Model "Video_model" initialized
+INFO - 2024-07-25 18:28:53 --> Model "Email_model" initialized
+INFO - 2024-07-25 18:28:53 --> Model "Payment_model" initialized
+INFO - 2024-07-25 18:28:53 --> Model "Lazyloaddata_model" initialized
+INFO - 2024-07-25 18:28:53 --> Model "Api_model" initialized
+INFO - 2024-07-25 18:28:53 --> Model "Addon_model" initialized
+INFO - 2024-07-25 18:28:53 --> Model "Social_login_modal" initialized
+INFO - 2024-07-25 18:28:53 --> Model "Academy_cloud_model" initialized
+INFO - 2024-07-25 18:28:53 --> Controller Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Driver Class Initialized
+INFO - 2024-07-25 18:28:53 --> Session: Class initialized using 'database' driver.
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:28:53 --> File loaded: C:\xampp\htdocs\step\demo\application\views\frontend/default-new/index.php
+INFO - 2024-07-25 18:28:53 --> Final output sent to browser
+DEBUG - 2024-07-25 18:28:53 --> Total execution time: 0.1402
+INFO - 2024-07-25 18:29:00 --> Config Class Initialized
+INFO - 2024-07-25 18:29:00 --> Hooks Class Initialized
+DEBUG - 2024-07-25 18:29:00 --> UTF-8 Support Enabled
+INFO - 2024-07-25 18:29:00 --> Utf8 Class Initialized
+INFO - 2024-07-25 18:29:00 --> URI Class Initialized
+INFO - 2024-07-25 18:29:00 --> Router Class Initialized
+INFO - 2024-07-25 18:29:00 --> Output Class Initialized
+INFO - 2024-07-25 18:29:00 --> Security Class Initialized
+DEBUG - 2024-07-25 18:29:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-25 18:29:00 --> Input Class Initialized
+INFO - 2024-07-25 18:29:00 --> Language Class Initialized
+INFO - 2024-07-25 18:29:00 --> Loader Class Initialized
+INFO - 2024-07-25 18:29:00 --> Helper loaded: url_helper
+INFO - 2024-07-25 18:29:00 --> Helper loaded: file_helper
+INFO - 2024-07-25 18:29:00 --> Helper loaded: form_helper
+INFO - 2024-07-25 18:29:00 --> Helper loaded: security_helper
+INFO - 2024-07-25 18:29:00 --> Helper loaded: string_helper
+INFO - 2024-07-25 18:29:00 --> Helper loaded: inflector_helper
+INFO - 2024-07-25 18:29:00 --> Helper loaded: directory_helper
+INFO - 2024-07-25 18:29:00 --> Helper loaded: download_helper
+INFO - 2024-07-25 18:29:00 --> Helper loaded: user_helper
+INFO - 2024-07-25 18:29:00 --> Helper loaded: multi_language_helper
+INFO - 2024-07-25 18:29:00 --> Helper loaded: common_helper
+INFO - 2024-07-25 18:29:00 --> Helper loaded: pagination_helper
+INFO - 2024-07-25 18:29:00 --> Helper loaded: addon_helper
+INFO - 2024-07-25 18:29:00 --> XML-RPC Class Initialized
+INFO - 2024-07-25 18:29:00 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-07-25 18:29:00 --> Pagination Class Initialized
+INFO - 2024-07-25 18:29:00 --> Model "User_model" initialized
+INFO - 2024-07-25 18:29:00 --> Model "Crud_model" initialized
+INFO - 2024-07-25 18:29:00 --> Model "Video_model" initialized
+INFO - 2024-07-25 18:29:00 --> Model "Email_model" initialized
+INFO - 2024-07-25 18:29:00 --> Model "Payment_model" initialized
+INFO - 2024-07-25 18:29:00 --> Model "Lazyloaddata_model" initialized
+INFO - 2024-07-25 18:29:00 --> Model "Api_model" initialized
+INFO - 2024-07-25 18:29:00 --> Model "Addon_model" initialized
+INFO - 2024-07-25 18:29:00 --> Model "Social_login_modal" initialized
+INFO - 2024-07-25 18:29:00 --> Model "Academy_cloud_model" initialized
+INFO - 2024-07-25 18:29:00 --> Controller Class Initialized
+INFO - 2024-07-25 18:29:00 --> Database Driver Class Initialized
+INFO - 2024-07-25 18:29:00 --> Session: Class initialized using 'database' driver.
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Config Class Initialized
+INFO - 2024-07-25 18:29:01 --> Hooks Class Initialized
+DEBUG - 2024-07-25 18:29:01 --> UTF-8 Support Enabled
+INFO - 2024-07-25 18:29:01 --> Utf8 Class Initialized
+INFO - 2024-07-25 18:29:01 --> URI Class Initialized
+INFO - 2024-07-25 18:29:01 --> Router Class Initialized
+INFO - 2024-07-25 18:29:01 --> Output Class Initialized
+INFO - 2024-07-25 18:29:01 --> Security Class Initialized
+DEBUG - 2024-07-25 18:29:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-25 18:29:01 --> Input Class Initialized
+INFO - 2024-07-25 18:29:01 --> Language Class Initialized
+INFO - 2024-07-25 18:29:01 --> Loader Class Initialized
+INFO - 2024-07-25 18:29:01 --> Helper loaded: url_helper
+INFO - 2024-07-25 18:29:01 --> Helper loaded: file_helper
+INFO - 2024-07-25 18:29:01 --> Helper loaded: form_helper
+INFO - 2024-07-25 18:29:01 --> Helper loaded: security_helper
+INFO - 2024-07-25 18:29:01 --> Helper loaded: string_helper
+INFO - 2024-07-25 18:29:01 --> Helper loaded: inflector_helper
+INFO - 2024-07-25 18:29:01 --> Helper loaded: directory_helper
+INFO - 2024-07-25 18:29:01 --> Helper loaded: download_helper
+INFO - 2024-07-25 18:29:01 --> Helper loaded: user_helper
+INFO - 2024-07-25 18:29:01 --> Helper loaded: multi_language_helper
+INFO - 2024-07-25 18:29:01 --> Helper loaded: common_helper
+INFO - 2024-07-25 18:29:01 --> Helper loaded: pagination_helper
+INFO - 2024-07-25 18:29:01 --> Helper loaded: addon_helper
+INFO - 2024-07-25 18:29:01 --> XML-RPC Class Initialized
+INFO - 2024-07-25 18:29:01 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-07-25 18:29:01 --> Pagination Class Initialized
+INFO - 2024-07-25 18:29:01 --> Model "User_model" initialized
+INFO - 2024-07-25 18:29:01 --> Model "Crud_model" initialized
+INFO - 2024-07-25 18:29:01 --> Model "Video_model" initialized
+INFO - 2024-07-25 18:29:01 --> Model "Email_model" initialized
+INFO - 2024-07-25 18:29:01 --> Model "Payment_model" initialized
+INFO - 2024-07-25 18:29:01 --> Model "Lazyloaddata_model" initialized
+INFO - 2024-07-25 18:29:01 --> Model "Api_model" initialized
+INFO - 2024-07-25 18:29:01 --> Model "Addon_model" initialized
+INFO - 2024-07-25 18:29:01 --> Model "Social_login_modal" initialized
+INFO - 2024-07-25 18:29:01 --> Model "Academy_cloud_model" initialized
+INFO - 2024-07-25 18:29:01 --> Controller Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Driver Class Initialized
+INFO - 2024-07-25 18:29:01 --> Session: Class initialized using 'database' driver.
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:29:01 --> File loaded: C:\xampp\htdocs\step\demo\application\views\backend/index.php
+INFO - 2024-07-25 18:29:01 --> Final output sent to browser
+DEBUG - 2024-07-25 18:29:01 --> Total execution time: 0.2376
+INFO - 2024-07-25 18:30:07 --> Config Class Initialized
+INFO - 2024-07-25 18:30:07 --> Hooks Class Initialized
+DEBUG - 2024-07-25 18:30:07 --> UTF-8 Support Enabled
+INFO - 2024-07-25 18:30:07 --> Utf8 Class Initialized
+INFO - 2024-07-25 18:30:07 --> URI Class Initialized
+INFO - 2024-07-25 18:30:07 --> Router Class Initialized
+INFO - 2024-07-25 18:30:07 --> Output Class Initialized
+INFO - 2024-07-25 18:30:07 --> Security Class Initialized
+DEBUG - 2024-07-25 18:30:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-25 18:30:07 --> Input Class Initialized
+INFO - 2024-07-25 18:30:07 --> Language Class Initialized
+INFO - 2024-07-25 18:30:07 --> Loader Class Initialized
+INFO - 2024-07-25 18:30:07 --> Helper loaded: url_helper
+INFO - 2024-07-25 18:30:07 --> Helper loaded: file_helper
+INFO - 2024-07-25 18:30:07 --> Helper loaded: form_helper
+INFO - 2024-07-25 18:30:07 --> Helper loaded: security_helper
+INFO - 2024-07-25 18:30:07 --> Helper loaded: string_helper
+INFO - 2024-07-25 18:30:07 --> Helper loaded: inflector_helper
+INFO - 2024-07-25 18:30:07 --> Helper loaded: directory_helper
+INFO - 2024-07-25 18:30:07 --> Helper loaded: download_helper
+INFO - 2024-07-25 18:30:07 --> Helper loaded: user_helper
+INFO - 2024-07-25 18:30:07 --> Helper loaded: multi_language_helper
+INFO - 2024-07-25 18:30:07 --> Helper loaded: common_helper
+INFO - 2024-07-25 18:30:07 --> Helper loaded: pagination_helper
+INFO - 2024-07-25 18:30:07 --> Helper loaded: addon_helper
+INFO - 2024-07-25 18:30:07 --> XML-RPC Class Initialized
+INFO - 2024-07-25 18:30:07 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-07-25 18:30:07 --> Pagination Class Initialized
+INFO - 2024-07-25 18:30:07 --> Model "User_model" initialized
+INFO - 2024-07-25 18:30:07 --> Model "Crud_model" initialized
+INFO - 2024-07-25 18:30:07 --> Model "Video_model" initialized
+INFO - 2024-07-25 18:30:07 --> Model "Email_model" initialized
+INFO - 2024-07-25 18:30:07 --> Model "Payment_model" initialized
+INFO - 2024-07-25 18:30:07 --> Model "Lazyloaddata_model" initialized
+INFO - 2024-07-25 18:30:07 --> Model "Api_model" initialized
+INFO - 2024-07-25 18:30:07 --> Model "Addon_model" initialized
+INFO - 2024-07-25 18:30:07 --> Model "Social_login_modal" initialized
+INFO - 2024-07-25 18:30:07 --> Model "Academy_cloud_model" initialized
+INFO - 2024-07-25 18:30:07 --> Controller Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Driver Class Initialized
+INFO - 2024-07-25 18:30:07 --> Session: Class initialized using 'database' driver.
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:07 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:08 --> Database Forge Class Initialized
+INFO - 2024-07-25 18:30:08 --> File loaded: C:\xampp\htdocs\step\demo\application\views\backend/index.php
+INFO - 2024-07-25 18:30:08 --> Final output sent to browser
+DEBUG - 2024-07-25 18:30:08 --> Total execution time: 0.3178

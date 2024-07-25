@@ -98,53 +98,7 @@
             <?php endif; ?>
 
             <?php if ($this->session->userdata('admin_login')) : ?>
-                <li class="dropdown notification-list topbar-dropdown">
-                    <a class="nav-link dropdown-toggle arrow-none" data-toggle="dropdown" href="#" role="button" aria-haspopup="false" aria-expanded="false" style="padding: 2px;">
-                        <i class="mdi mdi-help-circle-outline" style="font-size: 23px;"></i>
-                    </a>
-                    <div class="dropdown-menu dropdown-menu-right dropdown-menu-animated topbar-dropdown-menu" x-placement="bottom-end" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(-59px, 72px, 0px);">
-
-                        <div class="dropdown-header noti-title">
-                            <h6 class="text-overflow m-0"><?php echo get_phrase('help_center'); ?></h6>
-                        </div>
-
-                        <a href="https://creativeitem.com/docs/academy-lms" target="_blank" class="dropdown-item notify-item">
-                            <i class="mdi mdi-file-document-box-outline"></i>
-                            <span><?php echo get_phrase('read_documentation'); ?></span>
-                        </a>
-
-                        <a href="https://www.youtube.com/watch?v=-HHhJUGQPeU&list=PLR1GrQCi5Zqvhh7wgtt-ShMAM1RROYJgE" target="_blank" class="dropdown-item notify-item">
-                            <i class="mdi mdi-youtube"></i>
-                            <span><?php echo get_phrase('watch_video_tutorial'); ?></span>
-                        </a>
-
-                        <a href="https://support.creativeitem.com" target="_blank" class="dropdown-item notify-item">
-                            <i class="far fa-life-ring"></i>
-                            <span><?php echo get_phrase('get_customer_support'); ?></span>
-                        </a>
-
-                        <a href="https://support.creativeitem.com" target="_blank" class="dropdown-item notify-item">
-                            <i class="mdi mdi-arrow-right-bold-circle-outline"></i>
-                            <span><?php echo get_phrase('order_customization'); ?></span>
-                        </a>
-
-                        <a href="https://support.creativeitem.com" target="_blank" class="dropdown-item notify-item">
-                            <i class="mdi mdi-tooltip-plus-outline"></i>
-                            <span><?php echo get_phrase('request_a_new_feature'); ?></span>
-                        </a>
-
-                        <a href="https://codecanyon.net/collections/shared/9236f1b2a5de784f383c9ecd37b2f7b43dbfc225a5f96bc3ef32ac7ab397d392" target="_blank" class="dropdown-item notify-item">
-                            <i class=" mdi mdi-open-in-new"></i>
-                            <span><?php echo get_phrase('browse_addons'); ?></span>
-                        </a>
-
-                        <a href="https://creativeitem.com/services" target="_blank" class="dropdown-item notify-item text-warning d-flex items-align-center">
-                            <i class="text-11 dripicons-toggles mr-1"></i>
-                            <span><?php echo get_phrase('Get Services'); ?></span>
-                            <i class="mdi mdi-crown ml-auto"></i>
-                        </a>
-                    </div>
-                </li>
+          
 
 
                 <!-- Notification section -->
